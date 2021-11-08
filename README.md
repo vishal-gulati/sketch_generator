@@ -14,10 +14,10 @@ https://data-flair.training/blogs/download-face-mask-data/
 https://vishal-sketch-generator.herokuapp.com/
 
 ## Input Interface :
-![Screenshot](input.PNG)
+![Screenshot](interface.PNG)
 
 ## Input Image :
-![Screenshot](elon.jpg)
+![Screenshot](input.jpg)
 
 ## Output :
 ![Screenshot](output.PNG)
