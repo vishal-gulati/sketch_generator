@@ -6,7 +6,7 @@ This project uses a Deep Neural Network, more specifically a Convolutional Neura
 I have trained the model already and i am using the HDF5 file to store the model weights , if you want to train the model please use trainmodel.py file and download the data from the link given below.
 
 ## Requirements : 
-OpenCV,MatplotLib
+OpenCV
 ## Dataset Source :
 https://data-flair.training/blogs/download-face-mask-data/
 
